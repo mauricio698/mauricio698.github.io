@@ -1,0 +1,100 @@
+body{
+    background-color: white;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: rgb(24, 63, 95);
+}
+h3{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    color: black;
+    margin-bottom: 5px;
+    margin-left: 15px;
+}
+p{
+    color: black;
+    font-family: serif;
+    font-size: 20px;
+    margin: auto;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    
+
+}
+.foto img{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin: auto;
+    border-radius: 100%;
+    width: 180px;
+    height: 220px;
+    display: block;
+    
+}
+table{
+    color: black;
+    background-color: black solid;
+    border: black solid;
+    width: 80%;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+th{
+    background-color: rgb(192, 153, 101);
+    border: black solid;
+}
+td{
+    background-color: rgb(169, 189, 252);
+    border: black solid;
+}
+.ul,.ol{
+    color: black;
+    font-family: serif;
+    font-size: 20px;
+    margin: auto;
+    width: 85%;
+    padding: 10px;
+    margin-bottom: 2px;
+}
+.uno{
+    background-color: whitesmoke;
+
+}
+.formulario{
+    width: 50%;
+    border: 1px solid rgb(24, 63, 95);
+    margin: auto;
+    padding: 20px;
+    margin-top: 15px;
+}
+label{
+    font-size: 12px;
+    display: block;
+}
+input,textarea{
+    margin-bottom: 20px;
+    width: 100%;
+    border: 1px solid rgb(24, 63, 95);
+}
+button{
+    width: 100%;
+    background-color: rgb(24, 63, 95);
+    border: 2px solid rgb(24, 63, 95);
+    color: white;
+}
+input:focus{
+    border: 2px solid rgb(24, 63, 95);
+}
+.fin{
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
