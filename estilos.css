@@ -1,0 +1,70 @@
+body{
+    background-color: white;
+    margin: 0%;
+}
+.h1{
+    font-family: Helvetica;
+    margin: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: aquamarine;
+}
+.body{
+    margin: auto;
+    width: 85%;
+}
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#fondo{
+    width: 800px;
+    height: 500px;
+    background-image: url(covid1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+h3{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    margin-bottom: 10px;
+}
+p{
+    color: black;
+    font-family: serif;
+    font-size: 20px;
+    margin-bottom: 5px;
+    text-align: justify;
+}
+.sin,.pre{
+    background-color: aquamarine;
+    color: black;
+    font-family: serif;
+    font-size: 19px;
+    padding: 10px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-bottom: 1px;
+}
+.p{
+    color: black;
+    font-family: serif;
+    font-size: 20px;
+    padding: 10px;
+    padding-bottom: 1px;
+    margin-bottom: 1px;
+}
+.pf{
+    padding-top: 10px;
+}
+.fin{
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
